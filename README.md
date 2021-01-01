@@ -6,7 +6,7 @@ Not sure exactly what the purpose of this repo is, but mainly to challenge mysel
 
 Playing around with fading in-and-out circles.
 
-[Link to code]()
+[Link to code](https://github.com/AmitLevinson/shapes-and-tricks/blob/main/animation/animated-circle.R)
 
 <p align = "center">
 <img src = "animation/outputs/circle_anim.gif" width = "700">
@@ -18,7 +18,7 @@ circle_anim
 
 Squares below are the same color ('gray50')while only the background changes.
 
-[Link to code]()
+[Link to code](https://github.com/AmitLevinson/shapes-and-tricks/blob/main/random-geoms/same-color.R)
 
 <p align = "center">
 <img src = "random-geoms/same-color.png" width = "700">
