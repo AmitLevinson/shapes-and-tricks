@@ -5,8 +5,8 @@ library(gganimate)
 circles <- data.frame(
   x = 1,
   y = 1,
-  r = c(30:1,rep(1,8),2:29, rep(30,8)),
-  id = 1:74
+  r = c(30:1,rep(1,8),2:30, rep(30,8)),
+  id = 1:75
 )
  
 circle_anim <- ggplot(circles, aes(x0 = x, y0 = y, r = r))+
